@@ -1,0 +1,5 @@
+index.source.html
+Code.gs
+_enc/
+*.bak-*
+node_modules/
