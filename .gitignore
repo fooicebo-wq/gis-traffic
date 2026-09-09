@@ -4,3 +4,4 @@ _enc/
 *.bak-*
 node_modules/
 .staticrypt.json
+gas/
