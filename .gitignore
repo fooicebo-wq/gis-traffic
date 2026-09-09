@@ -3,3 +3,4 @@ Code.gs
 _enc/
 *.bak-*
 node_modules/
+.staticrypt.json
